@@ -8,7 +8,7 @@
 
  body {
    text-align: center;
-   background-image: linear-gradient(to bottom, rgb(241, 6, 162), rgb(164, 36, 225));
+   background: linear-gradient(to bottom, rgb(241, 6, 162), rgb(164, 36, 225));
    min-height: 100vh;
  }
 
