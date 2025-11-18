@@ -66,7 +66,8 @@
 
 
 .input_search {
-width: 100%;
+width: 35%;
+height: 50px;
 padding: 4%;
 outline: none;
 border: 2px solid red;
@@ -80,24 +81,22 @@ box-shadow: -3px 4px 0 #888;
 
 .buttons {
 position: absolute;
-bottom: 10%;
+bottom: 5%;
 left: 50%;
 width: 65%;
 transform: translate(-57%,0);
-display: flexx;
+display: flex;
 gap: 20px;
 }
 
 
 .button{
-width: 50%;
+width: 20%;
 padding: 5%;
 border: 2px solid black;
 border-radius: 25px;
 font-size: clamp(8px,5vw,24px);
 box-shadow: -3px 4px 0 #888;
-
-
 }
 
 
