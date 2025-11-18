@@ -1,5 +1,5 @@
 const pokemon_number = document.getElementById("pknum");
-const pokemon_nome = document.getElementById("pkname");
+const pokemon_name = document.getElementById("pkname");
 const pokemon_img = document.getElementById("pking");
 
 const pokemon_form = document.getElementById("form");
