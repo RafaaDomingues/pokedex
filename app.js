@@ -42,6 +42,7 @@ pokemon_form.addEventListener("submit", (event)=>{
     event.preventDefault();
     console.log("Enviando Formulario",pokemon_input.value);
     renderPokemon(pokemon_input.value.toLowerCase());
+    searchPokemon = parseInt(pokemon_input.value);
     input.value = "";
 
 })
