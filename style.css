@@ -80,6 +80,7 @@ box-shadow: -3px 4px 0 #888;
 
 
 .buttons {
+  height: 50px;
 position: absolute;
 bottom: 5%;
 left: 50%;
