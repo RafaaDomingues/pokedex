@@ -93,7 +93,7 @@ gap: 20px;
 
 .button{
 width: 20%;
-padding: 5%;
+padding: 1%;
 border: 2px solid black;
 border-radius: 25px;
 font-size: clamp(8px,5vw,24px);
